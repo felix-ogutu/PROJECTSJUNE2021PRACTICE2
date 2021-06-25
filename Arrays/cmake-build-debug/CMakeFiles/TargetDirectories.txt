@@ -1,0 +1,3 @@
+/home/vampire/CLionProjects/Arrays/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/vampire/CLionProjects/Arrays/cmake-build-debug/CMakeFiles/Arrays.dir
+/home/vampire/CLionProjects/Arrays/cmake-build-debug/CMakeFiles/edit_cache.dir

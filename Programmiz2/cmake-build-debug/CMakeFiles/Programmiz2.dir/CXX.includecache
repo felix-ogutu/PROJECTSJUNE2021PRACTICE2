@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vampire/CLionProjects/Programmiz2/Arrays1.cpp
+iostream
+-
+
+/home/vampire/CLionProjects/Programmiz2/main.cpp
+iostream
+-
+cmath
+-
+
